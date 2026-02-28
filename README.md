@@ -62,4 +62,3 @@ This project was built for learning purposes to practice:
 ## 📜 License
 
 This project is created for educational purposes only.
-```
